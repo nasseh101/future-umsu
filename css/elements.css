@@ -41,6 +41,7 @@ a.meanmenu-reveal {
 }
 .mobile-menu-area {
 	padding: 0 15px;
+    margin-top: 5px;
 }
 .mean-container a.meanmenu-reveal span {
   background: #232323 none repeat scroll 0 0;
